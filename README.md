@@ -2,7 +2,7 @@
 
 ## Description 
 
-This is a project which was developed for the University of Arizona Coding Bootcamp course. The application contained within has been designed to 
+This is a project which was developed for the University of Arizona Coding Bootcamp course. The application contained within has been designed as an employee tracker for a given organization. 
 
 
 ## Table of Contents 
@@ -11,29 +11,33 @@ This is a project which was developed for the University of Arizona Coding Bootc
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
-* [Badges](#badges)
-* [Tests](#tests)
 * [Documentation](#documentation)
 
 
 ## Installation
 
 Clone the repo onto your local drive   
-Open a command line terminal specific to the repo folder    
+Open a command line terminal specific to the repo folder  
+Run the following command;   
+'npm install'
+Navigate to the server.js file  and replace the DB credentials with your own creds   
+Use the schema and seed files to create the db, tables, and records    
 
 
 ## Usage 
 
-From the command line, run the following command:   
+Run the following  command;   
+'node server.js'
+Use the application from the command line.     
 
-![](doc/???.png?raw=true "")
+![Demo Still of the Application](doc/still_demo.png?raw=true "Demo of the Application")
+
 
 ## Credits
 
 University of Arizona Coding Bootcamp Week 12 Module 12: MySQL
-[Bootstrap](https://getbootstrap.com/)
 
-[Shields.io](https://shields.io/)
+[MySql](https://dev.mysql.com/)
 
 
 ## License
@@ -58,25 +62,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
-## Badges
-
-![badge](https://img.shields.io/badge/Javascript-brightgreen)
-![badge](https://img.shields.io/badge/jQuery-blue) 
-![badge](https://img.shields.io/badge/node.js-lightgrey)
-![badge](https://img.shields.io/badge/inquirer-red)
-
-## Tests
- 
-
 ## Documentation
 
-![GIF](doc/???.gif "README Generator GIF")
+![Employee Tracker GIF](doc/demo_gif.gif "Employee Tracker GIF")
 
-Please use the following link to view a test output of the application's function: [Application Demo](https://jakekelly44.github.io/team-portfolio-generator/dist/index.html " Test Output")
+Please use the following link to view the application demo video: [Application Demo on Youtube](https://youtu.be/JHQW68l-K08 "Demo Video")
 
-Please use the following link to view the application demo video: [Application Demo on Youtube](https://www. "Video")
-
-Please use the following link to download the application demo video: [Application Demo Download](doc/???.mp4 "Video")
+Please use the following link to download the application demo video: [Application Demo Download](doc/demo_mp4.mp4 "Demo Video")
 
 
