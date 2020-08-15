@@ -19,7 +19,7 @@ This is a project which was developed for the University of Arizona Coding Bootc
 Clone the repo onto your local drive   
 Open a command line terminal specific to the repo folder  
 Run the following command;   
-'npm install'
+`npm install`
 Navigate to the server.js file  and replace the DB credentials with your own creds   
 Use the schema and seed files to create the db, tables, and records    
 
@@ -27,7 +27,7 @@ Use the schema and seed files to create the db, tables, and records
 ## Usage 
 
 Run the following  command;   
-'node server.js'
+`node server.js`
 Use the application from the command line.     
 
 ![Demo Still of the Application](doc/still_demo.png?raw=true "Demo of the Application")
